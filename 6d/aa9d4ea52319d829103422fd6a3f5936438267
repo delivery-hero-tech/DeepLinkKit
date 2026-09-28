@@ -1,0 +1,12 @@
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "6daa9d4ea52319d829103422fd6a3f5936438267",
+  "prompts": {},
+  "humans": {
+    "h_0f19d15cb4e1cd": {
+      "author": "Sergii Sukhanov <sergii.sukhanov@deliveryhero.com>"
+    }
+  }
+}
